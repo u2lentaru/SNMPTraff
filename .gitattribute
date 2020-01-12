@@ -1,2 +1,2 @@
-sh/* linguist-vendored
-*.pl linguist-language=Perl
+* linguist-vendored
+*.pl linguist-vendored=false
