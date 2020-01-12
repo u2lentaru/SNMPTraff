@@ -1,2 +1,2 @@
-SNMPTraff/sh/* linguist-vendored
+sh/* linguist-vendored
 *.pl linguist-language=Perl
