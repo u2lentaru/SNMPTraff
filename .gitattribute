@@ -1,2 +1,2 @@
 * linguist-vendored
-*.pl linguist-vendored=True
+*.pl linguist-vendored=true
