@@ -1,2 +1,3 @@
 * linguist-vendored
 *.pl linguist-vendored=true
+*.sh linguist-detectable=false
