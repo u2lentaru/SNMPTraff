@@ -2,4 +2,5 @@
 *.pl linguist-vendored=false
 *.pl linguist-language=perl
 *.pl linguist-detectable=true
+sh/* linguist-vendored
 *.sh linguist-detectable=false
